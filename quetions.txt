@@ -1,0 +1,18 @@
+ {
+    _id: ObjectId('663de08519538e57992202d9'),
+    question: 'What is the capital of France?',
+    choices: [ 'Paris', 'London', 'Berlin', 'Rome' ],
+    correctChoiceIndex: 0
+  },
+  {
+    _id: ObjectId('663de08719538e57992202da'),
+    question: 'Which planet is known as the Red Planet?',
+    choices: [ 'Venus', 'Mars', 'Jupiter', 'Saturn' ],
+    correctChoiceIndex: 1
+  },
+  {
+    _id: ObjectId('663de08719538e57992202db'),
+    question: "Who wrote 'To Kill a Mockingbird'?",
+    choices: [ 'Mark Twain', 'J.K. Rowling', 'Harper Lee', 'Stephen King' ],
+    correctChoiceIndex: 2
+  }
